@@ -49,6 +49,7 @@ const Diaries: FC = () => {
       {
         titleText: "Private or public diary?",
         input: "radio",
+        iconColor: "#111",
         inputOptions: {
           private: "Private",
           public: "Public",
